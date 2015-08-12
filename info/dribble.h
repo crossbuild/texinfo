@@ -1,5 +1,5 @@
 /* dribble.h -- Functions and vars declared in dribble.c.
-   $Id$
+   $Id: dribble.h 5337 2013-08-22 17:54:06Z karl $
 
    Copyright 1993, 2004, 2007, 2013 Free Software Foundation, Inc.
 

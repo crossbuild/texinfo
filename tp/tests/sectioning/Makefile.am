@@ -1,4 +1,4 @@
-# $Id$
+# $Id: Makefile.am 6094 2015-02-02 23:58:41Z karl $
 # sectioning/Makefile.am - public domain.
  
 EXTRA_DIST = \

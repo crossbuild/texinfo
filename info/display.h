@@ -1,5 +1,5 @@
 /* display.h -- How the display in Info is done.
-   $Id$
+   $Id: display.h 5796 2014-09-01 18:04:46Z gavin $
 
    Copyright 1993, 1997, 2004, 2007, 2008, 2011, 2012, 2013, 2014
    Free Software Foundation, Inc.

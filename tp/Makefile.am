@@ -1,4 +1,4 @@
-# $Id$
+# $Id: Makefile.am 6141 2015-02-22 23:35:32Z karl $
 # Makefile.am for texinfo/tp.
 #
 # Copyright 2011, 2012, 2013, 2014, 2015 Free Software Foundation, Inc.

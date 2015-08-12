@@ -1,5 +1,5 @@
 /* echo-area.h -- Functions used in reading information from the echo area.
-   $Id$
+   $Id: echo-area.h 6355 2015-06-23 19:12:56Z gavin $
 
    Copyright 1993, 1997, 2004, 2007, 2008, 2011, 2013, 2014
    Free Software Foundation, Inc.

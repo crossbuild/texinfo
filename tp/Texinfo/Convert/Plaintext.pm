@@ -1,4 +1,4 @@
-# $Id$
+# $Id: Plaintext.pm 6332 2015-06-11 23:35:57Z karl $
 # Plaintext.pm: output tree as text with filling.
 #
 # Copyright 2010, 2011, 2012, 2013, 2014, 2015 Free Software Foundation, Inc.
@@ -3419,7 +3419,7 @@ sub indent_menu_descriptions($;$)
 1;
 
 __END__
-# $Id$
+# $Id: Plaintext.pm 6332 2015-06-11 23:35:57Z karl $
 # Automatically generated from maintain/template.pod
 
 =head1 NAME

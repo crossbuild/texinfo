@@ -1,6 +1,6 @@
 /* tag.c -- Functions to handle Info tags (that is, the special
    construct for images, not the "tag table" of starting position.)
-   $Id$
+   $Id: tag.c 5884 2014-10-22 22:19:04Z gavin $
 
    Copyright 2012, 2013, 2014 Free Software Foundation, Inc.
 

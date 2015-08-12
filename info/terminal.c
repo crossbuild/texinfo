@@ -1,5 +1,5 @@
 /* terminal.c -- how to handle the physical terminal for Info.
-   $Id$
+   $Id: terminal.c 6149 2015-02-24 18:21:51Z gavin $
 
    Copyright 1988, 1989, 1990, 1991, 1992, 1993, 1996, 1997, 1998,
    1999, 2001, 2002, 2004, 2007, 2008, 2012, 2013, 2014

@@ -1,4 +1,4 @@
-# $Id$
+# $Id: Makefile.am 6252 2015-05-06 17:37:57Z karl $
 # Makefile.am for texinfo/doc.
 #
 # Copyright 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012,

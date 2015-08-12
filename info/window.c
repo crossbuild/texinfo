@@ -1,5 +1,5 @@
 /* window.c -- windows in Info.
-   $Id$
+   $Id: window.c 6019 2015-01-03 18:11:40Z gavin $
 
    Copyright 1993, 1997, 1998, 2001, 2002, 2003, 2004, 2007, 2008,
    2011, 2012, 2013, 2014, 2015 Free Software Foundation, Inc.

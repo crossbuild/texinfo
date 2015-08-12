@@ -1,5 +1,5 @@
 #! /bin/sh
-# $Id$
+# $Id: long_tests.sh 6073 2015-01-29 00:08:18Z karl $
 # Copyright 2010, 2012, 2013, 2014, 2015 Free Software Foundation, Inc.
 #
 # Copying and distribution of this file, with or without modification,

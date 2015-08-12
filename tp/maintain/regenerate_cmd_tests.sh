@@ -1,5 +1,5 @@
 #! /bin/sh
-# $Id$
+# $Id: regenerate_cmd_tests.sh 6291 2015-05-31 18:29:37Z karl $
 # Use information from test driving files to regenerate test scripts
 # that run only one test, and file lists to be used in Makefiles.
 #

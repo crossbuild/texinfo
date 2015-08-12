@@ -1,5 +1,5 @@
 /* filesys.h -- external declarations for filesys.c.
-   $Id$
+   $Id: filesys.h 5609 2014-05-27 12:49:23Z gavin $
 
    Copyright 1993, 1997, 1998, 2002, 2004, 2005, 2007, 2009, 2012, 2013,
    2014 Free Software Foundation, Inc.

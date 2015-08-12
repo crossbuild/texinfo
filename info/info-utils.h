@@ -1,5 +1,5 @@
 /* info-utils.h -- Exported functions and variables from info-utils.c.
-   $Id$   
+   $Id: info-utils.h 6011 2014-12-30 21:54:02Z gavin $   
 
    Copyright 1993, 1996, 1998, 2002, 2003, 2004, 2007, 2011, 2012, 2013,
    2014 Free Software Foundation, Inc.

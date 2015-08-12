@@ -1,5 +1,5 @@
 /* search.h -- Structure used to search large bodies of text, with bounds.
-   $Id$
+   $Id: search.h 5997 2014-12-27 21:53:22Z gavin $
 
    Copyright 1993, 1997, 1998, 2002, 2004, 2007, 2009, 2011, 2013
    Free Software Foundation, Inc.

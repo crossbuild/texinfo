@@ -1,5 +1,5 @@
 \input texinfo.tex    @c -*-texinfo-*-
-@c $Id$
+@c $Id: texinfo.texi 6362 2015-06-25 22:48:32Z gavin $
 
 @c Everything between the start/end of header lines will be passed by
 @c Emacs's {texinfo,makeinfo}-format region commands.  See the `start of
@@ -22697,7 +22697,7 @@ Control System}) and other version control systems, which expand it
 into a string such as:
 
 @example
-$Id$
+$Id: texinfo.texi 6362 2015-06-25 22:48:32Z gavin $
 @end example
 
 (This is potentially useful in all sources that use version control,

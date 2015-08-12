@@ -1,5 +1,5 @@
 /* tilde.h: tilde expansion.
-   $Id$
+   $Id: tilde.h 5337 2013-08-22 17:54:06Z karl $
 
    Copyright 1988, 1989, 1990, 1991, 1992, 1993, 2004, 2007, 2013
    Free Software Foundation, Inc.

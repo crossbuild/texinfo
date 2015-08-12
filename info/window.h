@@ -1,5 +1,5 @@
 /* window.h -- Structure and flags used in manipulating Info windows.
-   $Id$
+   $Id: window.h 5884 2014-10-22 22:19:04Z gavin $
 
    Copyright 1993, 1997, 2004, 2007, 2011 2013, 2014
    Free Software Foundation, Inc.

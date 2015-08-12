@@ -1,5 +1,5 @@
 /* dribble.c -- dribble files for Info.
-   $Id$
+   $Id: dribble.c 5337 2013-08-22 17:54:06Z karl $
 
    Copyright 1993, 1998, 2004, 2007, 2008, 2013
    Free Software Foundation, Inc.

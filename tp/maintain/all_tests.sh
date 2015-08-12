@@ -1,5 +1,5 @@
 #! /bin/sh
-# $Id$
+# $Id: all_tests.sh 6139 2015-02-22 22:53:33Z karl $
 # Helper script for tests.
 #
 # Copyright 2011, 2012, 2013, 2014, 2015 Free Software Foundation, Inc.

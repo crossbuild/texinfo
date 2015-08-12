@@ -1,5 +1,5 @@
 #! /bin/sh
-# $Id$
+# $Id: prepare_perl_module_files.sh 6139 2015-02-22 22:53:33Z karl $
 # Regenerate lists of t/ files, used for make dist(check)
 # and the Perl modules.
 #

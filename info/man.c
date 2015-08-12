@@ -1,5 +1,5 @@
 /* man.c: How to read and format man files.
-   $Id$
+   $Id: man.c 6280 2015-05-18 16:32:19Z gavin $
 
    Copyright 1995, 1997, 1998, 1999, 2000, 2002, 2003, 2004, 2005, 2007, 2008, 
    2009, 2011, 2012, 2013, 2014, 2015 Free Software Foundation, Inc.

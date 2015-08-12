@@ -1,5 +1,5 @@
 /* man.h: Defines and external function declarations for man.c.
-   $Id$
+   $Id: man.h 5526 2014-05-07 14:37:33Z karl $
 
    Copyright 1993, 1997, 2004, 2007, 2013, 2014 Free Software Foundation, Inc.
 

@@ -1,4 +1,4 @@
-# $Id$
+# $Id: GNUmakefile 6200 2015-04-04 16:15:24Z karl $
 # Makefile to build Texinfo from the Perl POD documentation,
 # using pod2texi.
 #

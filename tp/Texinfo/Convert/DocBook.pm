@@ -1,4 +1,4 @@
-# $Id$
+# $Id: DocBook.pm 6363 2015-06-26 12:36:32Z gavin $
 # DocBook.pm: output tree as DocBook.
 #
 # Copyright 2011, 2012, 2013, 2014, 2015 Free Software Foundation, Inc.
@@ -1411,7 +1411,7 @@ sub _convert($$;$)
 1;
 
 __END__
-# $Id$
+# $Id: DocBook.pm 6363 2015-06-26 12:36:32Z gavin $
 # Automatically generated from maintain/template.pod
 
 =head1 NAME

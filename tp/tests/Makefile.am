@@ -1,4 +1,4 @@
-# $Id$
+# $Id: Makefile.am 6197 2015-03-29 19:59:32Z pertusus $
 # Makefile.am for texinfo/tp/tests.
 # Copyright 2012, 2013, 2014 Free Software Foundation, Inc.
 #

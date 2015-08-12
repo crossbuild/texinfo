@@ -1,5 +1,5 @@
 #! /usr/bin/env perl
-# $Id$
+# $Id: pod2texi.pl 6014 2015-01-01 19:32:00Z karl $
 # pod2texi -- convert Pod to Texinfo.
 # Copyright 2012, 2013, 2014, 2015 Free Software Foundation, Inc.
 # 

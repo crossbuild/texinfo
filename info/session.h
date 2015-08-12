@@ -1,5 +1,5 @@
 /* session.h -- Functions found in session.c.
-   $Id$
+   $Id: session.h 6135 2015-02-21 12:04:07Z gavin $
 
    Copyright 1993, 1998, 1999, 2001, 2002, 2004, 2007, 2011, 2013, 2014
    Free Software Foundation, Inc.

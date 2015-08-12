@@ -1,5 +1,5 @@
 /* variables.h -- Description of user visible variables in Info.
-   $Id$
+   $Id: variables.h 5912 2014-11-07 10:49:13Z gavin $
 
    Copyright 1993, 1997, 2004, 2007, 2011, 2013, 2014
    Free Software Foundation, Inc.

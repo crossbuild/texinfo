@@ -1,5 +1,5 @@
 /* indices.h -- Functions defined in indices.c.
-   $Id$
+   $Id: indices.h 6209 2015-04-07 10:52:27Z gavin $
 
    Copyright 1993, 1997, 2004, 2007, 2013, 2014
    Free Software Foundation, Inc.

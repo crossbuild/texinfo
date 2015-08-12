@@ -1,4 +1,4 @@
-# $Id$
+# $Id: HTML.pm 6363 2015-06-26 12:36:32Z gavin $
 # HTML.pm: output tree as HTML.
 #
 # Copyright 2011, 2012, 2013, 2014, 2015 Free Software Foundation, Inc.
@@ -7645,7 +7645,7 @@ sub _set_variables_texi2html()
 1;
 
 __END__
-# $Id$
+# $Id: HTML.pm 6363 2015-06-26 12:36:32Z gavin $
 # Automatically generated from maintain/template.pod
 
 =head1 NAME

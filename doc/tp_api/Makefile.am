@@ -1,4 +1,4 @@
-# $Id$
+# $Id: Makefile.am 5191 2013-02-23 00:11:18Z karl $
 # Makefile.am for texinfo/doc/tp_api.
 #
 # Copyright 2012

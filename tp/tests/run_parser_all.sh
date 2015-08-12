@@ -1,5 +1,5 @@
 #! /bin/sh
-# $Id$
+# $Id: run_parser_all.sh 6291 2015-05-31 18:29:37Z karl $
 # Run all Texinfo tests.
 # 
 # Copyright 2010, 2011, 2012, 2013, 2014, 2015

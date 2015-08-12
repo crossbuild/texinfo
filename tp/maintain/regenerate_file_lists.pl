@@ -1,5 +1,5 @@
 #! /usr/bin/env perl
-# $Id$
+# $Id: regenerate_file_lists.pl 6014 2015-01-01 19:32:00Z karl $
 # Copyright 2011, 2012, 2013, 2014, 2015 Free Software Foundation, Inc.
 #
 # This file is free software; as a special exception the author gives

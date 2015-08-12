@@ -1,5 +1,5 @@
 /* signals.c -- install and maintain signal handlers.
-   $Id$
+   $Id: signals.c 5823 2014-09-12 17:22:40Z gavin $
 
    Copyright 1993, 1994, 1995, 1998, 2002, 2003, 2004, 2007, 2012, 2013, 2014
    Free Software Foundation, Inc.

@@ -1,5 +1,5 @@
 #!/bin/sh
-# $Id$
+# $Id: ti-helpversion.sh 6338 2015-06-16 22:57:48Z karl $
 # This file is public domain.
 
 # check texindex --help and --version.  We'll just ensure that stdout is

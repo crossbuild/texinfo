@@ -1,4 +1,4 @@
-# $Id$
+# $Id: Makefile.am 6258 2015-05-10 15:09:20Z eliz $
 # Makefile.am for texinfo/util.
 # Run automake in .. to produce Makefile.in from this.
 #

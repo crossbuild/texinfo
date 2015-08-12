@@ -1,5 +1,5 @@
 #! /bin/sh
-# $Id$
+# $Id: regenerate_converters_documentation.sh 6141 2015-02-22 23:35:32Z karl $
 # This little script pastes the content of maintain/template.pod at the
 # end of converter modules, with the output format name suitably defined.
 # This file should be run when maintain/template.pod is modified.

@@ -1,5 +1,5 @@
 #! /bin/sh
-# $Id$
+# $Id: parser_tests.sh 6197 2015-03-29 19:59:32Z pertusus $
 # Run individual tests.
 #
 # Copyright 2010, 2011, 2012, 2013, 2014, 2015

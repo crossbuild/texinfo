@@ -1,5 +1,5 @@
 # formats :_html
-# $Id$
+# $Id: tests-parser.txt 6094 2015-02-02 23:58:41Z karl $
 # Public domain.  Originally created by Patrice Dumas.
 
 node_footnote_end node_footnote.texi --footnote-style=end
